@@ -179,7 +179,27 @@ A full-stack e-commerce application focused on core online shopping functionalit
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=azizulbuilds&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="98%"/>
+<div align="center">
+
+## 🐍 Watch My Contributions Come Alive!
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/azizulbuilds/azizulbuilds/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/azizulbuilds/azizulbuilds/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/azizulbuilds/azizulbuilds/output/github-snake.svg"
+    width="100%"
+  />
+</picture>
+
+</div>
 
 </div>
 
